@@ -1,7 +1,7 @@
 # example_container
 
 A new Flutter project.
-![img](assets/images/img.png)
+![images](assets/images/img.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
